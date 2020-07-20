@@ -1,4 +1,7 @@
-This project acts as a boilerplate for react applications using react. It has been created using create-react-app, but it also provides you the **watch** options in node scripts. This comes with a limitation - that I had to eject the scripts, which mean you won't get any future update for your build scripts. You will have to do them manually.
+This project acts as a boilerplate for react applications using react.
+
+It has been created using create-react-app, but it also provides you the **watch** options in node scripts.<br />
+This comes with a limitation - that I had to eject the scripts, which mean you won't get any future update for your build scripts. You will have to do them manually.
 
 ## Steps
 
@@ -44,7 +47,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### ~~`yarn eject` or `npm run eject`~~
 
-_**Note: This will not work, as I have already done it.**_
+_**Note: This will not work, as I have already done it.**_<br />
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
 If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
